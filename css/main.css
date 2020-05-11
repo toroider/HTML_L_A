@@ -1,0 +1,33 @@
+html, body{
+  
+  
+}
+body {
+  font-family: Georgia,  sans-serif;
+}
+
+h1{
+  color: green;
+  font-weight:normal;
+/*  font-style: italic;*/
+}
+
+p{
+  font-size: 18px;
+}
+
+span {
+/*  text-transform: uppercase;*/
+/*  color: green;*/
+/*  background: yellow;*/
+}
+.span_green{
+  background: green;
+  color: yellow;
+}
+.span_red{
+  background: red;
+  color: white;
+  text-transform: uppercase;
+
+}
